@@ -16,5 +16,7 @@
 
 7. Screenshot of my test results, including coverage report. 
 
-8. Link to my GitHub
+8. Link to my GitHub and Jira Board
 Here is a link to [GitHub] [https://github.com/EwaSzczerbaGitHub/Spring_Bookcase]
+
+Here is a link to [Jira] [https://eva9.atlassian.net/jira/software/c/projects/SPRIN/boards/4]
