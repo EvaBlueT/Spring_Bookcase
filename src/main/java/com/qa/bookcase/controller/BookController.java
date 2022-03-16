@@ -2,6 +2,7 @@ package com.qa.bookcase.controller;
 
 import java.util.List;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -22,7 +23,8 @@ public class BookController {
 	
 	private BookService service;
 	
-	private BookController(BookService service) {
+	@Autowired  //Instructs Spring to Insert the BookService object
+	public BookController(BookService service) {
 		this.service = service;
 	}
 	

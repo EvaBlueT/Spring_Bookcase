@@ -121,7 +121,7 @@ public class Book {
 
 	@Override
 	public int hashCode() {
-		return Objects.hash(author, award, genre, id, pages, title);
+		return Objects.hash(author, award, genre, pages, title);
 	}
 
 	//For testing, when verifying and comparing objects
