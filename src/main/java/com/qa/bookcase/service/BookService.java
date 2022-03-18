@@ -1,6 +1,7 @@
 package com.qa.bookcase.service;
 
 import java.util.List;
+
 import java.util.Optional;
 
 import org.springframework.stereotype.Service;
@@ -57,7 +58,7 @@ public class BookService implements ServiceMethods<Book>{
 	}
 
 	@Override
-	public boolean delete(long id) {
+	public boolean delete(long id){
 		this.repo.deleteById(id);
 		return !this.repo.existsById(id);
 	}
