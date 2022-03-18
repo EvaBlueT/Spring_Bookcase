@@ -1,35 +1,42 @@
 # Spring_Bookcase
 
-1. Why am I doing this? 
+This is a Spring Boot API reflecting my Bookcase - digital collection of books. 
+The application allows me to add books to my collection, update books' details, find a book by Id Number and delete it in case I do not owe it anymore.
 
-    The purpose of creating this project is to put in the practice the knowledge I gained during my 9-week Software Engeenering Bootcamp. I find it very helpfull for revising, systematising and memorising learned topics. Additionally, in the future it might also be a starting point to building my portfolio.
+**The purpose of this project**
 
-2. How I expected the challenge to go?
+I created this project to put into practice some knowledge and skills I gained during my 9-week Software Engineering Bootcamp. 
+I find it very helpful for revising, systematising and memorising learned topics. Additionally, in the future it might also be a good starting point to building my portfolio.
 
-    Before I started my challenge I was affraid I would be facing a lot of bugs and errors when writig my code. Despite I wish, I was more independent when creating my application I am overally proud of myself as this is the first application written by myself in my life.
+**How I expected the challenge to go**
 
-3. What went well? / What did not go as planned? 
+Before I started this challenge I was afraid I would be facing a lot of errors when writing my code, problems with utilising Git and Jira Board. 
+Surprisingly, I was more independent when creating my application than I predicted. Overall, I am proud of myself as this is the first application written by myself in my life.
 
-    I wish my application to be more creative. 
+**Obstacles and Successes**
 
-4. Possible improvements for future revisions of the project.
+Working on different branches has been a little bit challenging for me. 
+I could understand a general concept of working on many branches, however putting it in practice when creating my final project ment possibility of facing unexpected problems including losing some work or written code to collapse. I used it as an opportunity to learn more about git branching and finally was successful with using it. 
 
-    Creating multiple tables for the application with additional method/s allowing sorting my books aphabetically etc.
+**Possible improvements for future revisions of the project**
 
-5. Screenshots showing my postman requests and the output from the API. 
+Creating multiple tables for the application (for instance collection of artists and songs) with additional method/s allowing sorting my books alphabetically etc.
 
-    Please find screenshots in a separete folder called Screenshots.
+**Screenshots showing my postman requests and the output from the API**
 
-6. Screenshots of my database to prove that data is being persisted. 
+Please find screenshots in a separate folder called [Screenshots] 
+(https://github.com/EwaSzczerbaGitHub/Spring_Bookcase/tree/main/Screenshots)
 
-    Please find screenshots in a separete folder called Screenshots.
+**Screenshots of my database to prove that data is being persisted** 
 
-7. Screenshot of my test results, including coverage report. 
+Please find screenshots in a separate folder called [Screenshots]
+(https://github.com/EwaSzczerbaGitHub/Spring_Bookcase/tree/main/Screenshots)
 
-    Please find screenshots in a separete folder named Test_Screenshots.
+**Screenshot of my test results, including coverage report**
 
-8. Link to my GitHub and Jira Board
+ Please find screenshots in a separate folder named [Test_Screenshots] 
+ (https://github.com/EwaSzczerbaGitHub/Spring_Bookcase/tree/main/Screenshots)
 
-Here is a link to [GitHub] [https://github.com/EwaSzczerbaGitHub/Spring_Bookcase]
+**Link to my Jira Board**
 
-Here is a link to [Jira] [https://eva9.atlassian.net/jira/software/c/projects/SPRIN/boards/4]
+Here is a link to [Jira] (https://eva9.atlassian.net/jira/software/c/projects/SPRIN/boards/4)
